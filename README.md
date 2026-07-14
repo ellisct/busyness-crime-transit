@@ -1,6 +1,6 @@
 # Pedestrian Busyness, Volatility, and Crime Near Bus Stops
 
-Replication code for the project *Unpredictability and Risk: Pedestrian Busyness, Volatility, and Crime Near Bus Stops* (presented at the Western Society of Criminology Annual Conference, 2025).
+Replication code for the project titiled *Unpredictability and Risk: Pedestrian Busyness, Volatility, and Crime Near Bus Stops* (presented at the Western Society of Criminology Annual Conference, 2025).
 
 This repository contains Python scripts for modeling the relationship between pedestrian busyness dynamics and crime counts at San Diego Metropolitan Transit System (MTS) bus stops, using a stop × day-of-week × hour-of-day panel dataset.
 
@@ -8,11 +8,11 @@ This repository contains Python scripts for modeling the relationship between pe
 
 ## Project Overview
 
-Conventional crime research treats busyness as a static count of people present. This project takes a different approach: it measures *how busyness changes* — its volatility, directional shifts, and deviation from expected patterns — and tests whether those dynamics predict crime, above and beyond average activity levels.
+Conventional crime research treats busyness as a static count of people present. This project takes a different approach: it measures how busyness changes (its volatility, directional shifts, and deviation from expected patterns) and tests whether those dynamics predict crime, above and beyond average activity levels.
 
 **Research questions:**
-- RQ1: Does busyness *change* (directional and magnitude) predict crime counts at transit stops?
-- RQ2: Does *deviation from expected* busyness predict crime counts?
+- RQ1: Does busyness change (directional and magnitude) predict crime counts at transit stops?
+- RQ2: Does deviation from expected busyness predict crime counts?
 
 **Crime outcomes:** Total incidents, property crime, violent crime
 
